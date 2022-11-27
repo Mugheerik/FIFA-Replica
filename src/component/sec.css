@@ -1,0 +1,35 @@
+h6{
+    font-size: medium;
+}
+.link{
+    color: black;
+    text-decoration: none;
+}
+.link:hover{
+    color: rgb(241, 243, 245);
+}
+.ff{
+    font-size: 12px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.sub{
+    display: none;
+    position:fixed;
+    background-color: white;
+    z-index: 1;
+}
+.opensub:hover .sub{
+    display: block;
+}
+.subb{
+    display: none;
+    position:fixed;
+    background-color: white;
+    z-index: 1;
+    height: 100px;
+    width: 100px;
+}
+.opensubb:hover .subb{
+display:block ;
+}

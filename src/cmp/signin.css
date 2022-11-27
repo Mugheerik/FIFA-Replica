@@ -1,0 +1,27 @@
+ .form{
+   
+    color: rgb(5, 5, 5);
+    text-align: center;
+    margin: 20vh;
+    
+    width: 30vw;
+    height: 70vh;
+    margin-left: 32vw;
+    margin-top: 10vh;
+    }
+    form{
+        
+        color: rgb(5, 5, 5);
+       display: flex;
+       margin: 10vh;
+      
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: column;
+        width: 20vw;
+        
+    }
+    .label{
+        padding-top: 2vh;
+    } 
+    

@@ -1,0 +1,14 @@
+.navv{
+    display:flex;
+    justify-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.dd{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-decoration: none;
+    
+}

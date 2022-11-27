@@ -1,0 +1,33 @@
+.flexx{
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 2vh;
+}
+ .flexx li{
+    text-decoration: none;
+    padding: 10px;
+}
+.ff{
+    font-size: 12px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.ddd li{
+    text-decoration: none;
+ 
+}
+.flexxx{
+    display: flex;
+    justify-items: center;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 3vh;
+    border-radius: 50%;
+}
+.flexxx li{
+    text-decoration: none;
+}

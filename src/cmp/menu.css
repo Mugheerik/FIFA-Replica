@@ -1,0 +1,51 @@
+nav{
+    min-height: 8vh;
+    color: rgb(82, 162, 241);
+    
+    
+  
+    
+  }
+  ul{
+display: flex;
+flex-direction: row;
+margin-left: 2vw;
+    margin-top: 3vh; 
+  }
+  li{
+    align-items: center;
+    list-style: none;
+    display: inline;
+    margin-left: 3vw; 
+   
+  }
+  
+  li#title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.3vw;
+    
+
+    
+  }
+  label#serch{
+   margin-inline-start: 5vw;
+    display: inline;
+  }
+  label#dd{
+   margin-top: 1vh;
+    display: inline;
+  }
+  button#signup{
+    border: 1px solid grey;
+  }
+ div#logo{
+    width: 6vw;
+    height: 11vh;
+    text-align: start;
+  }
+  img#logo{
+       margin-top: 1.5vh;
+
+    width: 6vw;
+    height: 11vh; 
+  }
